@@ -224,7 +224,7 @@ function App() {
                 Frontend Developer
               </p>
 
-              <a href="./Frontend_Resume.pdf" download="resume.pdf" >
+              <a href="./resume_new.pdf" download="resume_kalpesh.pdf" >
               <button className="bg-[#4595eb] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#7de714] to-[#228B22] relative hover:scale-110 ease-in-out duration-100 group">
                 Download Resume
                 <svg
@@ -1114,7 +1114,7 @@ function App() {
             />
             <span
               className="flex group-hover:-top-14 ease-jump duration-200 bg-[#fc815c] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2"
-              >Food Ordeing App
+              >Food Ordering App
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
