@@ -224,7 +224,7 @@ function App() {
                 Frontend Developer
               </p>
 
-              <a href="./resume_new.pdf" download="resume_kalpesh.pdf" >
+              <a href="./resume_new.pdf" download="Kalpesh_Resume.pdf" >
               <button className="bg-[#4595eb] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#7de714] to-[#228B22] relative hover:scale-110 ease-in-out duration-100 group">
                 Download Resume
                 <svg
