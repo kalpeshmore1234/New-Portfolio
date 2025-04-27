@@ -325,7 +325,7 @@ function App() {
 
             <li className="w-7 hover:text-white">
               <a
-                href="https://www.instagram.com/klapesh_r_more/"
+                href="https://www.instagram.com/kalpeshmore777/"
                 target="_blank"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
