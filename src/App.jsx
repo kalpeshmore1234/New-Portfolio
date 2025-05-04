@@ -565,7 +565,7 @@ function App() {
           className="w-4 h-4 rounded-full border-[3px] border-[#fc815c] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block"
         ></div>
         <a
-          href="https://epma.netlify.app/"
+          href="https://nextflickszone.netlify.app/"
           className="flex w-full relative justify-center sm:justify-start"
           target="_blank"
         >
@@ -574,12 +574,12 @@ function App() {
           >
             <img
               className="max-w-[400px] w-full mr-auto relative z-10 drop-shadow-[0_0px_60px_rgba(125,231,20,0.6)]"
-              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1728326499/epmaL_ka4ysm.png"
+              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1746358345/netflix-clone_zwdjgu.png"
               alt=""
             />
             <span
               className="flex group-hover:-top-14 ease-jump duration-200 bg-[#fc815c] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2"
-              >EPMA
+              >Netflix Clone
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -604,43 +604,41 @@ function App() {
 
         <div className="w-full">
           <h3 className="text-[#fc815c] font-bold text-2xl md:text-4xl">
-            EPMA
+            Netflix Clone
           </h3>
           <span className="text-[#fc815c] text-base md:text-lg"
-            >(Project Management Academy)</span
+            >(Clone Of the OTT platform named Netflix)</span
           >
           <p className="text-justify text-sm md:text-base mt-2">
-          EPMA is a comprehensive platform for all project management training and certification needs. Developed the entire website from the ground up.
+          Built a Netflix clone web app from scratch, replicating core features like user authentication, movie browsing, and responsive UI using modern web technologies.
           </p>
 
           <ul className="flex flex-wrap gap-2 mt-2">
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #html
+              #react.js
+            </li>
+
+            <li
+              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
+            >
+              #react-router
             </li>
             
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #swiper.js
+              #css
             </li>
       
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #css
+              #firebase
             </li>
-            <li
-              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
-            >
-              #javascript
-            </li>
-            <li
-              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
-            >
-              #figma
-            </li>
+          
+          
           </ul>
         </div>
       </div>
