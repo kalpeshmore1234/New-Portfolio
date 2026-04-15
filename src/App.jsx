@@ -648,36 +648,46 @@ function App() {
       >
         <div className="order-2 sm:order-1 w-full">
           <h3 className="text-[#47afa1] font-bold text-2xl md:text-4xl">
-            Tathe Group
+            Vectorshift Clone
           </h3>
           <span className="text-[#47afa1] text-base md:text-lg"
-            >(Real Estate Website)</span
+            >Vectorshift(YC Backed Startup)</span
           >
           <p className="text-justify text-sm md:text-base mt-2">
-          As a lead developer, transformed the website into a fully responsive and engaging platform. Implemented new feature while collaborating closely with the UX designer.
+         Built a full-stack automation interface that allows users to design complex logic through a drag-and-drop canvas. Developed with React Flow, Zustand, and FastAPI, the tool enables seamless creation, connection, and processing of interconnected data workflows.
           </p>
 
           <ul className="flex flex-wrap gap-2 mt-2">
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #html
+              #react
             </li>
             
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #css
+              #react flow
             </li>
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #javascript
+              #zustland
             </li>
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #figma
+              #python
+            </li>
+            <li
+              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
+            >
+              #fastapi
+            </li>
+            <li
+              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
+            >
+              #pydantic
             </li>
           </ul>
         </div>
@@ -688,7 +698,7 @@ function App() {
           className="w-4 h-4 rounded-full border-[3px] border-[#47afa1] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block"
         ></div>
         <a
-          href="https://tathe123.netlify.app/"
+          href="https://vectorshift-clone.netlify.app/"
           className="order-1 sm:order-2 flex w-full relative justify-center sm:justify-start"
           target="_blank"
         >
@@ -697,12 +707,12 @@ function App() {
           >
             <img
               className="max-w-[400px] w-full relative z-10 drop-shadow-[0_0px_60px_rgba(125,231,20,0.6)]"
-              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1728326499/TatheL_aykyhg.png"
+              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1776232373/Vectorshift_tbwgnx.png"
               alt=""
             />
             <span
               className="flex group-hover:-top-14 ease-jump duration-200 bg-[#47afa1] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2"
-              >Tathe Group
+              >Vectorshift Clone
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
