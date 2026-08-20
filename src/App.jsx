@@ -393,7 +393,7 @@ function App() {
           className="w-4 h-4 rounded-full border-[3px] border-[#459bd5] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block"
         ></div>
         <a
-          href="https://snitchclone.netlify.app/"
+          href="https://india-rag-chat.netlify.app/"
           className="flex w-full relative justify-center sm:justify-start"
           target="_blank"
         >
@@ -402,12 +402,12 @@ function App() {
           >
             <img
               className="max-w-[400px] w-full mr-auto relative z-10 drop-shadow-[0_0px_60px_rgba(125,231,20,0.6)]"
-              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1728311118/Group_1_avxayb.png"
-              alt=""
+              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1787225266/rag_chat_s6cgfp.png"
+              alt="India RAG Chatbot"
             />
             <span
               className="flex group-hover:-top-14 ease-jump duration-200 bg-[#459bd5] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2"
-              >Snitch.com Clone
+              >India RAG Chatbot
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -432,13 +432,13 @@ function App() {
 
         <div className="w-full">
           <h3 className="text-[#459bd5] font-bold text-2xl md:text-4xl">
-            Snitch.com Clone
+            India RAG Chatbot
           </h3>
           <span className="text-[#459bd5] text-base md:text-lg"
-            >(E-commerce website)</span
+            >(RAG Chatbot)</span
           >
           <p className="text-justify text-sm md:text-base mt-2">
-          Create a clone of the e-commerce store Snitch, adding features like addToCart, removeFromCart, deleteCart, countItems, and totalCount for essential e-commerce operations, using React and Redux.
+          Created a RAG chatbot app using a 10-line PDF about India uploaded to Cloudflare AI Beta, retrieving answers from that PDF by hitting a public endpoint.
           </p>
 
           <ul className="flex flex-wrap gap-2 mt-2">
@@ -451,12 +451,17 @@ function App() {
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #css
+              #typescript
             </li>
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #javascript
+              #cloudflare
+            </li>
+            <li
+              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
+            >
+              #rest-api
             </li>
 
            
@@ -1123,10 +1128,10 @@ function App() {
           className="h-[1px] left-1/4 right-1/2 bg-[#0FFF50] absolute top-1/2 hidden sm:block"
         ></div>
         <div
-          className="w-4 h-4 rounded-full border-[3px] border-[#fc815c] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block"
+          className="w-4 h-4 rounded-full border-[3px] border-[#459bd5] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block"
         ></div>
         <a
-          href="https://clicodehubcompilerkalpesh.netlify.app/"
+          href="https://snitchclone.netlify.app/"
           className="flex w-full relative justify-center sm:justify-start"
           target="_blank"
         >
@@ -1135,12 +1140,12 @@ function App() {
           >
             <img
               className="max-w-[400px] w-full mr-auto relative z-10 drop-shadow-[0_0px_60px_rgba(125,231,20,0.6)]"
-              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1728326499/CompilerL_jnymth.png"
-              alt=""
+              src="https://res.cloudinary.com/db0oa8ou5/image/upload/v1728311118/Group_1_avxayb.png"
+              alt="Snitch.com Clone"
             />
             <span
-              className="flex group-hover:-top-14 ease-jump duration-200 bg-[#fc815c] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2"
-              >ClickCodeHub Compiler
+              className="flex group-hover:-top-14 ease-jump duration-200 bg-[#459bd5] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2"
+              >Snitch.com Clone
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -1164,14 +1169,14 @@ function App() {
         </a>
 
         <div className="w-full">
-          <h3 className="text-[#fc815c] font-bold text-2xl md:text-4xl">
-          ClickCodeHub Compiler
+          <h3 className="text-[#459bd5] font-bold text-2xl md:text-4xl">
+          Snitch.com Clone
           </h3>
-          <span className="text-[#fc815c] text-base md:text-lg"
-            >(Coding Compiler)</span
+          <span className="text-[#459bd5] text-base md:text-lg"
+            >(E-commerce website)</span
           >
           <p className="text-justify text-sm md:text-base mt-2">
-          Developed a coding compiler for web developers, enabling users to create and preview static websites in real-time. Built with a focus on simplicity and user experience.
+          Create a clone of the e-commerce store Snitch, adding features like addToCart, removeFromCart, deleteCart, countItems, and totalCount for essential e-commerce operations, using React and Redux.
           </p>
 
           <ul className="flex flex-wrap gap-2 mt-2">
@@ -1179,7 +1184,7 @@ function App() {
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
-              #html
+              #react.js
             </li>
             <li
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
@@ -1190,11 +1195,6 @@ function App() {
               className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
             >
               #javascript
-            </li>
-            <li
-              className="border rounded-[50px] border-[#999] px-[10px] py-[5px] text-sm md:text-base"
-            >
-              #figma
             </li>
           </ul>
         </div>
