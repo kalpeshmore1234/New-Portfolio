@@ -221,7 +221,7 @@ function App() {
                 Kalpesh More
               </h1>
               <p className="font-['Inter'] italic my-4 md:my-8">
-                Frontend Developer
+                Full Stack Developer
               </p>
 {/* hi */}
               <a href="./Kalpesh_New_Resume.pdf" download="Kalpesh_New_Resume.pdf" >
